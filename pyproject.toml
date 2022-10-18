@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "xpulumi-cmd-hook"
-version = "0.0.0"
+version = "1.0.0"
 description = "Wrapper for pulumi CLI that delegates to xpulumi if installed"
 authors = ["Sam McKelvie <dev@mckelvie.org>"]
 license = "MIT"
